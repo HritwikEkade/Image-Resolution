@@ -9,9 +9,16 @@ Furthermore, we will be using OpenCV, the Open Source Computer Vision Library. O
 
 
  
+# Results
+<img src="output/comic.png">
+<img src="output/butterfly_GT.png">
+<img src="output/baboon.png">
+<img src="output/bird_GT.png">
+<img src="output/ppt3.png">
+<img src="output/woman_GT.png">
 
-<img src="images/1.PNG" width="900" height="600">
-<img src="images/2.PNG" width="900" height="600">
+
+
 
 
 
